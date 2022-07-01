@@ -2,7 +2,7 @@
 CLI tool to get Merriam-Webster Definitions and Synonyms
 
 I like to jot down new words, or words I forgot the meaning of, as I read to
-help expand new words. Usually, I'll just Google the definition of the word. If
+help expand my vocabulary. Usually, I'll just Google the definition of the word. If
 it is a word I think I will continue using I put the word into my notes on my
 phone or add it to a text file on my computer. This text file acts as a
 database of words I would like to add to my vocabulary. Instead of doing this
